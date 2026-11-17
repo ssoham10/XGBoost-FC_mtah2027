@@ -1,0 +1,8 @@
+self-tests passed
+
+v6 possessions: 373   3 s merge effect (raw->v6 agreement): 0.722
+
+W(s) handovers confirmed rejected unjudgeable | poss after | agreement with v6
+   1       234       150       26          58 |        328 | 0.889
+   2       218       131       53          34 |        285 | 0.776
+   3       195        78       87          30 |        228 | 0.628

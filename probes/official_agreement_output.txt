@@ -1,0 +1,11 @@
+v6 vs v6: 1.0
+shift 1 frame: 1.0000   shift 25 frames: 0.9083
+self-tests passed
+
+pair                      A->B    B->A
+v6 vs v5                 0.968   0.968
+v6 vs pre-merge          0.722   0.722
+v6 vs controlled2s       0.776   0.776
+v5 vs pre-merge          0.695   0.695
+v5 vs controlled2s       0.741   0.741
+pre-merge vs controlled2s 0.538   0.538

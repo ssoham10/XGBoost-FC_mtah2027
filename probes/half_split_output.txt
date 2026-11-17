@@ -1,0 +1,5 @@
+self-tests passed
+
+half  frames   D%   poss  med_s  p90_s  H%    agree_w_nearest  ball_seen  gap_med_frames
+1      79467 12.8%   200    9.4   33.0 55.5%      83.3%         59.3%       289
+2      76456 13.3%   173   10.6   31.1 54.1%      83.8%         58.4%       245

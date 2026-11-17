@@ -1,0 +1,6 @@
+self-tests passed
+
+v6: handovers 253  near D 0 (0.0%)  random live frame near D 8.2%  ratio 0.00
+   D runs between two possessions: same team 76  other team 42
+pre-merge: handovers 486  near D 38 (7.8%)  random live frame near D 8.2%  ratio 0.95
+   D runs between two possessions: same team 91  other team 27
